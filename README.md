@@ -199,7 +199,7 @@ images/monthly_revenue_trend.png
 Use this in README:
 
 ```markdown
-![Monthly Revenue Trend](images/monthly_revenue_trend.png)
+![https://github.com/mukul816/Advanced-SQL-E-Commerce-Business-Analysis/blob/main/Advanced%20SQL%20E-Commerece%20Olist%20Business%20Analysis/Images/Monthly%20Revenue%20Trend.png]
 ```
 
 ---
