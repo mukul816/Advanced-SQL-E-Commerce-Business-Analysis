@@ -188,21 +188,12 @@ The highest revenue month was **November 2017**, generating **1,153,364.20** in 
 
 The lowest revenue month was **December 2016**, with only **19.62** in revenue. This appears to be an early-stage or low-activity period in the dataset.
 
-### Suggested Image
 
-Upload this image to:
+![Monthly Revenue Trend](https://github.com/mukul816/Advanced-SQL-E-Commerce-Business-Analysis/blob/main/Advanced%20SQL%20E-Commerece%20Olist%20Business%20Analysis/Images/Monthly%20Revenue%20Trend.png)
 
-```text
-images/monthly_revenue_trend.png
-```
 
-Use this in README:
-
-```markdown
-![https://github.com/mukul816/Advanced-SQL-E-Commerce-Business-Analysis/blob/main/Advanced%20SQL%20E-Commerece%20Olist%20Business%20Analysis/Images/Monthly%20Revenue%20Trend.png]
-```
-
----
+Overall Growth: Revenue shows a strong upward trajectory from September 2016 to August 2018.
+Major Peak: A significant revenue surge occurred in late 2017 (November–December), nearly reaching $1.2M ((1.2 \times 10^6)).
 
 ## Month-over-Month Revenue Growth
 
@@ -239,19 +230,7 @@ This category is a major revenue driver and should be prioritized for marketing 
 
 ### Suggested Image
 
-Upload this image to:
-
-```text
-images/top_categories_by_revenue.png
-```
-
-Use this in README:
-
-```markdown
-![Top Product Categories by Revenue](images/top_categories_by_revenue.png)
-```
-
----
+![Top Product Category](https://github.com/mukul816/Advanced-SQL-E-Commerce-Business-Analysis/blob/main/Advanced%20SQL%20E-Commerece%20Olist%20Business%20Analysis/Images/Top%20Products%20Category%20By%20Revenue.png)
 
 ## Product Category Revenue Contribution
 
@@ -316,19 +295,7 @@ This shows that São Paulo is the strongest seller hub for the marketplace. Olis
 
 ### Suggested Image
 
-Upload this image to:
-
-```text
-images/seller_state_performance.png
-```
-
-Use this in README:
-
-```markdown
-![Seller State Performance](images/seller_state_performance.png)
-```
-
----
+![Seller State Performance](https://github.com/mukul816/Advanced-SQL-E-Commerce-Business-Analysis/blob/main/Advanced%20SQL%20E-Commerece%20Olist%20Business%20Analysis/Images/Seller%20State%20By%20Revenue.png)
 
 ## Low-Performing Product Category
 
