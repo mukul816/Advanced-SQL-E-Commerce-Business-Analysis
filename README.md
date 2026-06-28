@@ -193,6 +193,7 @@ The lowest revenue month was **December 2016**, with only **19.62** in revenue. 
 
 
 Overall Growth: Revenue shows a strong upward trajectory from September 2016 to August 2018.
+
 Major Peak: A significant revenue surge occurred in late 2017 (November–December), nearly reaching $1.2M ((1.2 \times 10^6)).
 
 ## Month-over-Month Revenue Growth
